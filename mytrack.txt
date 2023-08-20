@@ -1,0 +1,2 @@
+25-jan-2022 - --- deployed v2 into dev environment
+01-feb-2023 ----- completed enhancing bot logic
